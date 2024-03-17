@@ -21,7 +21,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='house_prediction',
+    name='banglore_home_prices',
     version='0.0.1',
     packages=find_packages(),
     author='sumitkudale21',
